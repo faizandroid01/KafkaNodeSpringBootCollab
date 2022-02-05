@@ -13,7 +13,7 @@ const run = async () => {
   await producer.send({
     topic: 'test-topic',
     messages: [
-      { value: 'Hello KafkaJS user!' },
+      { value: 'Hello KafkaJS user! for spring boot' },
     ],
   })
  

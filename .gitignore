@@ -24,3 +24,9 @@ hs_err_pid*
 
 /node_modules
 node_modules
+.idea
+/springbootAsConsumer/.mvn
+*.jar
+*.properties
+*.iml
+target

@@ -1,3 +1,7 @@
+<!----------------- Reference ------------>
+
+https://www.youtube.com/watch?v=LOLgEGet9yA
+
 <!------------------------- Command to be entered ------------------------->
 
 F:\Windows_Workspace\TechConnect_Workspace\POCs\KafkaNodeSpringBootCollab>npm init
