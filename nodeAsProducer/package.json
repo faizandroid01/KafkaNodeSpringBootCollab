@@ -1,0 +1,22 @@
+{
+  "name": "nodepoducerandwebsocket",
+  "version": "1.0.0",
+  "description": "node project acts as producer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizandroid01/KafkaNodeSpringBootCollab.git"
+  },
+  "author": "Faiz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizandroid01/KafkaNodeSpringBootCollab/issues"
+  },
+  "homepage": "https://github.com/faizandroid01/KafkaNodeSpringBootCollab#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
